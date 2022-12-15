@@ -1,0 +1,30 @@
+
+
+h3{
+    color:blueviolet;
+    background-color: blanchedalmond;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: right;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+p{
+    color:aqua;
+    background-color:blue;
+    text-align:justify;
+    font-style: oblique;
+    
+
+}
+#pp{
+    color:aquamarine;
+    background-color:black;
+}
+h3:hover{
+    background-color:azure;
+    color:black;
+    text-align: right;
+
+}
