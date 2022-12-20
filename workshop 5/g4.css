@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+    color:white;
+}
+h1{
+    font-weight:bold;
+    font-size:65px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 900px;
+    margin-right: 100px;
+    
+}
+p{
+    font-size:35px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 900px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+
+}
+.image{
+    margin-right: 600px;
+    margin-top:-1555px;
+    
+}
+  .pp{
+    margin-top:300px;
+    margin-bottom:900px;
+  } 
+
+
+img{
+    height:710px;
+    width:800px;
+}
