@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(47, 255, 71) ;
+    color:white;
+}
+
+h1{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px ;
+    margin-right:850px;
+    margin-top: 50px;
+}
+p{
+    font-size: 25px;
+    
+    text-align: right;
+    margin-left: 800px;
+    margin-right:250px;
+    margin-top:-250px;
+
+}
+.image{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 135px;
+    
+
+}
+img{
+    height:400px;
+    width:1230px;
+}
